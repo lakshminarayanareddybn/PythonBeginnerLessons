@@ -22,7 +22,7 @@ Python Introduction
 - Concatenate strings
 - Format strings
 
-# Day-6 Strings continued
+# Day-5 Strings continued
 - Escape Characters
 - String methods
 - Operators
