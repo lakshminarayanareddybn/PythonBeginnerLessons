@@ -15,3 +15,16 @@ Python Introduction
 - Casting : Type casting
 - Variable type checking
 
+# Day-4 - Strings
+- Strings
+- Slicing
+- Modify strings (https://www.w3schools.com/python/python_ref_string.asp)
+- Concatenate strings
+- Format strings
+
+# Day-6 Strings continued
+- Escape Characters
+- String methods
+- Operators
+
+
