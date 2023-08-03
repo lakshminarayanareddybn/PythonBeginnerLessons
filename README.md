@@ -1,3 +1,6 @@
+## All code samples are pushed to repo
+https://github.com/lakshminarayanareddybn/PythonBeginnerLessons
+
 # Day-1
 Python Introduction
 
