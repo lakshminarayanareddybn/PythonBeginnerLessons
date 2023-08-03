@@ -19,12 +19,25 @@ Python Introduction
 - Strings
 - Slicing
 - Modify strings (https://www.w3schools.com/python/python_ref_string.asp)
-- Concatenate strings
 - Format strings
 
 # Day-5 Strings continued
+- Concatenate strings
 - Escape Characters
-- String methods
-- Operators
+- String methods (For more methods: https://www.w3schools.com/python/python_strings_methods.asp)
+- Operators (Practice programs in : https://www.programiz.com/python-programming/operators)
+
+# Day-6
+- Lists
+
+# Day-7
+- Tuples
+
+# Day-8
+- Sets
+
+# Day-9
+- Dictionaries
+
 
 

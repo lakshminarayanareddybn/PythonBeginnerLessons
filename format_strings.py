@@ -1,26 +1,26 @@
-## Format Strings
+# Format Strings
 
-## I have a string and a number. How can i combine it
+# I have a string and a number. How can i combine it
 
-# my_name = "I am X person. with age "
-# my_age = 20
+my_name = "I am X person. with age "
+my_age = 20
 
-# about_me = my_name + my_age
-# print(about_me)
+about_me = my_name + my_age
+print(about_me)
 
-# ### TypeError: can only concatenate str (not "int") to str
+### TypeError: can only concatenate str (not "int") to str
 
-# ## To combine strings and numbers we need to use
-# # format() or {} inside the print
+## To combine strings and numbers we need to use
+# format() or {} inside the print
 
-# about_me = "{} {}".format(my_name,my_age)
-# print(about_me)
+about_me = "{} {}".format(my_name,my_age)
+print(about_me)
 
-# about_me = f"{my_name} {my_age}"
-# print(about_me)
+about_me = f"{my_name} {my_age}"
+print(about_me)
 
-# print(f"{my_name} {my_age}")
-# print("{} {}".format(my_name,my_age))
+print(f"{my_name} {my_age}")
+print("{} {}".format(my_name,my_age))
 
 
 user_name = input("Enter your name > ")
