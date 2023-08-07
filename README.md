@@ -30,16 +30,16 @@ Python Introduction
 - String methods (For more methods: https://www.w3schools.com/python/python_strings_methods.asp)
 - Operators (Practice programs in : https://www.programiz.com/python-programming/operators)
 
-# Day-6
+# Day-6,7
 - Lists
 
-# Day-7
+# Day-8,9
 - Tuples
 
-# Day-8
+# Day-10,11
 - Sets
 
-# Day-9
+# Day-12,13
 - Dictionaries
 
 
