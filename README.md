@@ -33,10 +33,10 @@ Python Introduction
 # Day-6,7
 - Lists
 
-# Day-8,9
+# Day-8
 - Tuples
 
-# Day-10,11
+# Day-9,10
 - Sets
 
 # Day-12,13
