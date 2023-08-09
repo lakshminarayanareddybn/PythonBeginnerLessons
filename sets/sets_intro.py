@@ -10,11 +10,11 @@
 fruits_set = {"apple", "banana", "orange", "banana"}
 print(fruits_set)
 
-# # define a list with duplicate values
-# mylist = [1,1,1,1,1,1,1,2,3,4,5]
-# print(mylist)
-# mylist = list(set(mylist))
-# print(mylist)
+# define a list with duplicate values
+mylist = [1,1,1,1,1,1,1,2,3,4,5]
+print(mylist)
+mylist = list(set(mylist))
+print(mylist)
 
 # get length of the set
 print(len(fruits_set))
@@ -29,3 +29,5 @@ print(False==0)
 
 ## check the type of set
 print(type(fruits_set))
+
+
