@@ -12,12 +12,12 @@
 # print(is_num_divisible_by_7)
 # print(is_not_multiple_of_5)
 
-sum = ""
-for num in range(2000, 3201):
-    if num % 7 == 0 and num%5 != 0:
-        sum = sum + f"{str(num)},"
+# sum = ""
+# for num in range(2000, 3201):
+#     if num % 7 == 0 and num%5 != 0:
+#         sum = sum + f"{str(num)},"
 
-print(sum)
+# print(sum)
 
 # 10/7
 
@@ -25,3 +25,19 @@ print(sum)
 #   14
 # -------
 #    0
+
+# x = 5//2
+# print(x)
+
+# 0  0.5  1
+
+num = input("Enter 3 digit number > ")
+print(num[0], int(num[0])**3)
+print(num[1], int(num[1])**3)
+print(num[2], int(num[2])**3)
+sum = int(num[0])**3 + int(num[1])**3 + int(num[2])**3 
+
+if(sum==int(num)):
+    print(f"{num} is armstrong number")
+else:
+    print(f"{num} is not armstrong number")
