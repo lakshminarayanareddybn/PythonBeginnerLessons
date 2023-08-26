@@ -1,0 +1,10 @@
+## practice programs to read the text file "shakespeare.txt"
+
+## Reference
+## https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt
+
+## 1. Find for a specific keyword given as input by user.
+## 2. How many lines are present in the text file
+## 3. How many comma's in the text file.
+## 4. How many numbers are present in the text file.
+## 5. How many vowels are present in the text file.
