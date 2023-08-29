@@ -20,13 +20,14 @@ import re
 # print(dir(re))
 
 # Some of the re functions that we discuss in next 2-3 days
+# 'findall' - Returns a list of containing all matches
+# 'search' - Returns a Match object if there is a match anywhere in the string
+# 'split' - Returns a list where the string has been split at each match
+# 'sub' - Replaces one or many matches with a string
 # 'compile'
-# 'findall', 
 # 'fullmatch', 
 # 'match', 
-# 'search'
-# 'split'
-# 'sub'
+
 
 txt = "The rain is Spain"
 
