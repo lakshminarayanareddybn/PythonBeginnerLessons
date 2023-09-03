@@ -22,6 +22,10 @@ import requests
 # post
 # delete
 
-response = requests.get(url="https://cat-fact.herokuapp.com/facts/")
-print(response)
-print(response.content)
+MAX_COUNT = 100
+
+def get_facts():
+    response = requests.get(url="https://cat-fact.herokuapp.com/facts/")
+    # print(response)
+    # print(response.content)
+    return response.content
