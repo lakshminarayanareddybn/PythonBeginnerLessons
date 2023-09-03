@@ -1,0 +1,5 @@
+# Study below links and come up with questions
+# https://www.geeksforgeeks.org/python-classes-and-objects/
+# https://www.geeksforgeeks.org/python-oops-concepts/
+# https://www.geeksforgeeks.org/__init__-in-python/
+# https://www.geeksforgeeks.org/oop-in-python-set-3-inheritance-examples-of-object-issubclass-and-super/
